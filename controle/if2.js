@@ -10,7 +10,8 @@ function test1(num) {
 
 function test2(num){
     if(num>7); // cuidado com o ";" ele não deve ser utilizado em estruturas de cntrole
-        console.log(num)
+    {    
+    console.log(num)
     }
 }
 
