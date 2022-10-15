@@ -1,5 +1,5 @@
-## Fundamentos da Linguagens JavaScript
+# Fundamentos da Linguagens JavaScript
 
-# Referência
+## Referência
 - Curso Web Moderno Completo com JavaScript 2020 (Udemy)
 - https://b7web.com.br/php/
